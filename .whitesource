@@ -23,7 +23,7 @@
     "enableRenovate": true,
      "extends": ["mergeConfidence:all-badges"],
      "separateMinorPatch": true
-  }
+  },
  }
 }
 
